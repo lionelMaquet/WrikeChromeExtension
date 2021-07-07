@@ -1,0 +1,33 @@
+/* DASHBOARD */
+
+html {
+    overflow: scroll !important;
+}
+
+mosaic-fragment {
+	position: relative !important;
+	left: 5vw !important;
+	width: 90vw !important;
+	min-height: 20vh !important;
+	max-height: 80vh !important;
+	height: auto !important;
+	overflow:scroll!important;
+}
+
+.dashboard__mosaic {
+	overflow: scroll !important;
+}
+
+/* INBOX */
+
+wrike-panel{
+width:80vw !important;
+}
+
+wrike-panel:first-of-type{
+width:20vw!important;
+}
+
+.notification__comment {
+display:none;
+}
